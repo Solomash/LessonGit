@@ -8,5 +8,6 @@ namespace LessonGit
 {
     internal interface Interface1
     {
+        //bug was here
     }
 }
