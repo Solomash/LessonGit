@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vsolomatin\\source\\repos\\LessonGit\\LessonGit\\LessonGit.csproj": {}
+    "C:\\Users\\vsolomatin\\Source\\Repos\\LessonGit2\\LessonGit\\LessonGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vsolomatin\\source\\repos\\LessonGit\\LessonGit\\LessonGit.csproj": {
+    "C:\\Users\\vsolomatin\\Source\\Repos\\LessonGit2\\LessonGit\\LessonGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vsolomatin\\source\\repos\\LessonGit\\LessonGit\\LessonGit.csproj",
+        "projectUniqueName": "C:\\Users\\vsolomatin\\Source\\Repos\\LessonGit2\\LessonGit\\LessonGit.csproj",
         "projectName": "LessonGit",
-        "projectPath": "C:\\Users\\vsolomatin\\source\\repos\\LessonGit\\LessonGit\\LessonGit.csproj",
+        "projectPath": "C:\\Users\\vsolomatin\\Source\\Repos\\LessonGit2\\LessonGit\\LessonGit.csproj",
         "packagesPath": "C:\\Users\\vsolomatin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vsolomatin\\source\\repos\\LessonGit\\LessonGit\\obj\\",
+        "outputPath": "C:\\Users\\vsolomatin\\Source\\Repos\\LessonGit2\\LessonGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vsolomatin\\AppData\\Roaming\\NuGet\\NuGet.Config",
