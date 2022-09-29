@@ -8,5 +8,6 @@ namespace LessonGit
 {
     public class Class1
     {
+        public int number { get; set; }
     }
 }
